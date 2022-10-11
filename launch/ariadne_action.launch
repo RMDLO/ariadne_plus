@@ -1,7 +1,7 @@
 <launch>
 
     <arg name="topic_action" default="/get_splines_action"/> 
-    <arg name="topic_camera" default="/usb_cam/image_raw" />
+    <arg name="topic_camera" default="/camera/color/image_raw" />
     <arg name="num_superpixels" default="30"/> 
     <arg name="type_model" default="STANDARD"/> 
 

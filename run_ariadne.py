@@ -1,3 +1,4 @@
+#! /home/wall-e/anaconda3/envs/ariadneplus/bin/python
 import cv2
 import os
 
